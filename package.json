@@ -1,0 +1,8 @@
+{
+  "name": "my_shop",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
